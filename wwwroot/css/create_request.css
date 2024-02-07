@@ -65,7 +65,7 @@ label[for="fileLoader"]{
 }
 
 .iti__country-list {
-    z-index: 5;
+    z-index: 2;
 }
 
 .last_buttons_1{
@@ -79,6 +79,7 @@ footer{
     
     background-color: #282828;
     color: white;
+    z-index:5;
 }
 .footer_links {
     color: white;
